@@ -1,0 +1,18 @@
+
+- Sistema Operacional
+- Compilador
+- Aplicativo de texto
+- Emulador
+- Player de musica
+- Terminar o rule base bot
+- Segurança de Database
+- Criação de Database para pequenas empresas
+- Criação de bots:
+    - Bots de Email
+    - Bots de Chat
+    - Bots de Zapp
+- Criação de Sites
+- Desenvolver e-comercers
+- Intranet
+- Monitoramento de Funcionários
+- Fazer um programa que demonstra graficamente algoritmos de sorting e tree
