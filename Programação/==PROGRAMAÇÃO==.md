@@ -3,6 +3,7 @@
 - [[_GIT_]]
 - [[Licenças]]
 - [[_PYTHON_]]
+- [[_JAVA_]]
 - [[Refatoramento]]
 - [[Web Basics]]
 - [[_HTML_]]
