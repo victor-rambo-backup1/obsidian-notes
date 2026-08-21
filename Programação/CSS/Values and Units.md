@@ -27,3 +27,9 @@
 - São tratados com `lenghts` no geral 
 - Valor relativo a algo, geralmente o objeto pai
 - `width: 20%` -> 20% da largura do objeto pai
+
+# Colors 
+
+> É sugerido usar o mesmo formato de cores atravez de todo o projeto
+
+- 
