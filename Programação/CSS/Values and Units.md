@@ -20,3 +20,10 @@
 - `vw`: relativo ao tamanho horizontal do viewport
 
 `rem` evita efeito cascata de aumento de fonte, diferente do `em` 
+
+
+# Porcentages
+
+- São tratados com `lenghts` no geral 
+- Valor relativo a algo, geralmente o objeto pai
+- `width: 20%` -> 20% da largura do objeto pai
