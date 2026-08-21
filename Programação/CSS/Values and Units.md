@@ -14,6 +14,7 @@
 
 > Mudam com base em algum aspecto definido
 
-- `em`: relativo a fonte do elemento ou a, do pai do elemento quando usado em `font-size`
+- `em`: relativo ao tamanho de fonte do elemento ou, do pai do elemento quando usado em `font-size`
+- `rem`: relativo ao tamanho de fonte do elemento raiz 
 - `vh`: relativo ao tamanho vertical do viewport
 - `vw`: relativo ao tamanho horizontal do viewport
