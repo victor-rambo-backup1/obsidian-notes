@@ -41,6 +41,12 @@
 
 - 3 valores que vão de 0 a 255, representando os canais, `red`, `green`, `blue`
 - Precisa usar a função `rgb()`
+- Pode usar `rgba()`, com o ultimo valor indo de 0 a 1, definindo a opacidade
+
+
+# Image
+
+- `url(<caminho-da-imagem>)`: acessa imagem via CSS
 
 
 
