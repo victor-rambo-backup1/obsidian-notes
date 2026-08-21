@@ -43,7 +43,6 @@
 - Precisa usar a função `rgb()`
 - Pode usar `rgba()`, com o ultimo valor indo de 0 a 1, definindo a opacidade
 
-
 # Image
 
 - `url(<caminho-da-imagem>)`: acessa imagem via CSS
