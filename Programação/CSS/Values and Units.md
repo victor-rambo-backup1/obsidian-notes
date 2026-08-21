@@ -32,4 +32,15 @@
 
 > É sugerido usar o mesmo formato de cores atravez de todo o projeto
 
-- 
+### Hexadecimal RGB
+
+- Um `#` + `6 caracteres`, cada par de caracteres representa um canal rgb
+- Usar valor hexadecimal diretamente na propriedade
+
+### RGB
+
+- 3 valores que vão de 0 a 255, representando os canais, `red`, `green`, `blue`
+- Precisa usar a função `rgb()`
+
+
+
