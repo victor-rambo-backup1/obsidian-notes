@@ -18,3 +18,5 @@
 - `rem`: relativo ao tamanho de fonte do elemento raiz 
 - `vh`: relativo ao tamanho vertical do viewport
 - `vw`: relativo ao tamanho horizontal do viewport
+
+`rem` evita efeito cascata de aumento de fonte, diferente do `em` 
