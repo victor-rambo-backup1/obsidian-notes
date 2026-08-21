@@ -21,4 +21,11 @@
 - Executado da branch que vai receber as atualizações
 
 
+### Como Passar um branch remota para local?
+
+```bash
+git fetch origin
+git switch -c nome-da-branch --track origin/nome-da-branch
+```
+
 O `Working Directory` só mostra os arquivos da branch atual, escondendo os arquivos das outras branches
