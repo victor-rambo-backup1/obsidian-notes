@@ -76,7 +76,7 @@
 ## Combinator Selector
 
 - Seleciona apenas elementos que tenham relações específicas com outros elementos
-- `div p {}`:  seleciona qualquer elemento `p` que seja filho direto de `div`, não precisa ser filha direta
+- `div p {}`:  seleciona qualquer elemento `p` que seja filho de `div`, não precisa ser filha direta
 - `div > p {}`: seleciona qualquer elemento `p` que seja filho direto de uma `div`
 - `div ~ p {}`: seleciona qualquer elemento `p` que esteja em um mesmo grau de identação que uma `div`
 - `div + p {}`: seleciona qualquer elemento `p` que esteja diretamente abaixo de uma `div`
