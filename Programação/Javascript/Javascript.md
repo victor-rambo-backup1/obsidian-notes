@@ -11,7 +11,9 @@
 -     `<script src=<path defer></script>`
 	- `defer`: baixa o javascript desde o início do carregamento mas só executa ele depois de todo o resto estiver carregado
 
+# Select HTML
 
+-  `document.getElementByID(<id>).textContent = "` : 
 # Variables
 
 - `let`
@@ -23,3 +25,5 @@
 	- Precisa ser atribuida valor na criação
 
 - `typeof <variable>`: retorna o tipo de valor da variável
+
+
