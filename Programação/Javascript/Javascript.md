@@ -14,4 +14,12 @@
 
 # Variables
 
-- `let`: 
+- `let`
+	- Pode ser mudada
+	- Não precisa ser atribuido valor na criação 
+
+- `const`
+	- Não pode ser mudada
+	- Precisa ser atribuida valor na criação
+
+- `typeof <variable>`: retorna o tipo de valor da variável
