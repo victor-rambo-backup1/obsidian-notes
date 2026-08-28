@@ -11,3 +11,6 @@
 - [Otimização de Perfil](https://www.sweresume.app/blogs/linkedin-profile-optimization/)
 - [Dicas sobre Linkedin](https://www.tiktok.com/@rh.assirallis)
 - [Avaliador de Linkedin](https://www.linkedin.com/sales/ssi)
+
+# Pacote de Ícones
+- [](https://www.flaticon.com/uicons/interface-icons)
