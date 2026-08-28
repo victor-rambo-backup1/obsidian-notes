@@ -28,4 +28,10 @@
 
 # Input 
 
-
+```js
+document.getElementById("myButton").onclick = function() {
+    username = document.getElementById("myInput").value;
+    document.getElementById("myInput").value = null;
+    console.log(username);
+}
+```
