@@ -13,4 +13,4 @@
 - [Avaliador de Linkedin](https://www.linkedin.com/sales/ssi)
 
 # Pacote de Ícones
-- [](https://www.flaticon.com/uicons/interface-icons)
+- [Flaticon](https://www.flaticon.com/uicons/interface-icons)
