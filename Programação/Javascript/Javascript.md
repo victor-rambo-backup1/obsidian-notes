@@ -26,4 +26,6 @@
 
 - `typeof <variable>`: retorna o tipo de valor da variável
 
+# Input 
+
 
