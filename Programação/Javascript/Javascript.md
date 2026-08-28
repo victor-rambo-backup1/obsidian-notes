@@ -13,7 +13,7 @@
 
 # Select HTML
 
--  `document.getElementByID(<id>).textContent = <string>`: muda texto do elemento HTML com o id selecionado
+-  `document.getElementByID(<id>).textContent = variable`: muda texto do elemento HTML com o id selecionado
 # Variables
 
 - `let`
