@@ -24,3 +24,9 @@ views:
       - tags
     cardSize: 800
     imageAspectRatio: 1.05
+  - type: timeline
+    name: Visualizaçao padrão
+    filters:
+      and:
+        - file.inFolder("remote/Base")
+    showLabels: false
