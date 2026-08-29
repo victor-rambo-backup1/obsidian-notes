@@ -3,7 +3,7 @@
 - [[_GIT_]]
 - [[_WEB_]]
 - [[_ARQUITETURA_]]
-- 
+- [[_CONCEITOS_]]
 
 # Linguagens 
 - [[_HTML_]]
