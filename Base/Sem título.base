@@ -68,3 +68,15 @@ views:
     axisInterval: auto
   - type: table
     name: Visualizaçao padrão 3
+  - type: project-timeline
+    name: Visualizaçao padrão 4
+    filters:
+      and:
+        - file.inFolder("remote/Base")
+    order:
+      - file.name
+      - Data
+    sidebar: true
+    sortByPriority: true
+    start: note.Data
+    zoom: week
