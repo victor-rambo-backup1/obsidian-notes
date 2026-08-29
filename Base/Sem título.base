@@ -4,3 +4,17 @@ views:
     filters:
       and:
         - file.inFolder("remote/Base")
+    order:
+      - file.name
+      - Data
+      - status
+      - tags
+    sort:
+      - property: file.name
+        direction: DESC
+  - type: cards
+    name: Visualizaçao padrão 2
+    order:
+      - file.name
+    cardSize: 800
+    imageAspectRatio: 1.05
