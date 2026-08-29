@@ -62,4 +62,7 @@ views:
       - Data
     showLabels: true
     dateProperty: note.Data
-    labelProperty: file.tags
+    labelProperty: file.basename
+    categoryProperty: note.Data
+  - type: table
+    name: Visualizaçao padrão 3
