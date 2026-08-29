@@ -13,7 +13,9 @@ views:
       - Data Início
       - Data Fim
       - Status
-    sort: []
+    sort:
+      - property: tags
+        direction: ASC
   - type: project-timeline
     name: Timeline
     filters:
