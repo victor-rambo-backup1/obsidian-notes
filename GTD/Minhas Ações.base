@@ -1,3 +1,6 @@
+properties:
+  file.name:
+    displayName: Nome
 views:
   - type: project-timeline
     name: Timeline
@@ -20,9 +23,8 @@ views:
         - file.inFolder("remote/GTD/Minhas Ações")
     order:
       - file.name
-      - Data
       - status
+      - Data Início
+      - Data Fim
       - tags
-    sort:
-      - property: tags
-        direction: DESC
+    sort: []
