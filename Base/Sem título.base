@@ -13,8 +13,14 @@ views:
       - property: file.name
         direction: DESC
   - type: cards
-    name: Visualizaçao padrão 2
+    name: Cartões
+    filters:
+      and:
+        - file.inFolder("remote/Base")
     order:
       - file.name
+      - status
+      - Data
+      - tags
     cardSize: 800
     imageAspectRatio: 1.05
