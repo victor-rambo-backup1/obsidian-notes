@@ -86,5 +86,14 @@ views:
     name: Visualizaçao padrão 6
   - type: project-timeline
     name: Visualizaçao padrão 7
+    filters:
+      and:
+        - file.inFolder("remote/GTD/Minhas Ações")
+    order:
+      - file.name
+      - Data Fim
+      - Data Início
     priority: note.tags
-    start: note.Data
+    start: note.Data Início
+    end: note.Data Fim
+    sidebar: true
