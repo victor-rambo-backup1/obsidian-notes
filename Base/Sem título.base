@@ -29,4 +29,37 @@ views:
     filters:
       and:
         - file.inFolder("remote/Base")
+    order:
+      - file.name
+      - Data
+      - status
+      - tags
+      - file.tags
+      - file.size
+      - file.path
+      - file.mtime
+      - file.links
+      - file.folder
+      - file.ext
+      - file.embeds
+      - file.ctime
+      - file.basename
+      - file.backlinks
+      - file.fullname
     showLabels: false
+  - type: timeline
+    name: Visualizaçao padrão 2
+    order:
+      - file.name
+      - Data
+    showLabels: true
+    dateProperty: note.Data
+    labelProperty: file.tags
+  - type: timeline
+    name: Visualizaçao padrão 2 2
+    order:
+      - file.name
+      - Data
+    showLabels: true
+    dateProperty: note.Data
+    labelProperty: file.tags
