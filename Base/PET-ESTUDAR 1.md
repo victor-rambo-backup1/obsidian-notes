@@ -5,6 +5,8 @@ tags:
   - PET
   - Faculdade
 end: 2026-03-14
+taggs:
+  - FACULDADE
 ---
 
 
