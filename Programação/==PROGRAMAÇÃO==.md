@@ -1,10 +1,8 @@
 
 - [[Daemons]]
 - [[_GIT_]]
-- [[Licenças]]
-- [[Refatoramento]]
-- [[Web Basics]]
-- [[_Arquitetura_]]
+- [[_WEB_]]
+- [[_ARQUITETURA_]]
 
 # Linguagens 
 - [[_HTML_]]
