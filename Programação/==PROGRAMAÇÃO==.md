@@ -1,5 +1,4 @@
 
-- [[Daemons]]
 - [[_GIT_]]
 - [[_WEB_]]
 - [[_ARQUITETURA_]]
