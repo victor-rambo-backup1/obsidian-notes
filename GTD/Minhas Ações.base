@@ -1,19 +1,6 @@
 views:
-  - type: table
-    name: Tabela
-    filters:
-      and:
-        - file.inFolder("remote/Base")
-    order:
-      - file.name
-      - Data
-      - status
-      - tags
-    sort:
-      - property: file.name
-        direction: DESC
   - type: project-timeline
-    name: Visualizaçao padrão 7
+    name: Timeline
     filters:
       and:
         - file.inFolder("remote/GTD/Minhas Ações")
@@ -26,3 +13,16 @@ views:
     end: note.Data Fim
     sidebar: false
     zoom: week
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.inFolder("remote/GTD/Minhas Ações")
+    order:
+      - file.name
+      - Data
+      - status
+      - tags
+    sort:
+      - property: tags
+        direction: DESC
