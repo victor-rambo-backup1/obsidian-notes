@@ -2,7 +2,7 @@
 tags:
   - Prova
   - Faculdade
-Data Início: 2026-09-23T23:45:00
+Data Início: 2026-09-23T00:00:00
 Data Fim:
 Status:
 ---
