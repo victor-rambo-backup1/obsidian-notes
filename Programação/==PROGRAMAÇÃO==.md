@@ -1,10 +1,14 @@
-- [[C++]]
+
 - [[Daemons]]
 - [[_GIT_]]
 - [[Licenças]]
-- [[_PYTHON_]]
-- [[_JAVA_]]
 - [[Refatoramento]]
 - [[Web Basics]]
+
+# Linguagens 
 - [[_HTML_]]
 - [[_CSS_]]
+- [[_JAVA_]]
+- [[_PYTHON_]]
+- [[C++]]
+- [[_JAVASCRIPT_]]
