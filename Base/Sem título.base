@@ -1,11 +1,6 @@
 views:
   - type: table
     name: Tabela
-    sort:
-      - property: file.name
-        direction: ASC
-  - type: table
-    name: Visualizaçao padrão
-    sort:
-      - property: file.name
-        direction: ASC
+    filters:
+      and:
+        - file.inFolder("remote/Base")
