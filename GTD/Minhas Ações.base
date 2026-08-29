@@ -7,9 +7,6 @@ views:
     filters:
       and:
         - file.inFolder("remote/GTD/Minhas Ações")
-    groupBy:
-      property: Status
-      direction: ASC
     order:
       - file.name
       - tags
@@ -17,9 +14,9 @@ views:
       - Data Fim
       - Status
     sort:
-      - property: Status
-        direction: ASC
       - property: tags
+        direction: ASC
+      - property: Status
         direction: ASC
   - type: project-timeline
     name: Timeline
