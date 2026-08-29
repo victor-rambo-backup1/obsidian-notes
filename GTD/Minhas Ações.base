@@ -25,6 +25,9 @@ views:
       - file.name
       - Data Fim
       - Data Início
+    sort:
+      - property: Data Início
+        direction: ASC
     priority: note.tags
     start: note.Data Início
     end: note.Data Fim
