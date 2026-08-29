@@ -6,3 +6,6 @@ views:
         direction: ASC
   - type: table
     name: Visualizaçao padrão
+    sort:
+      - property: file.name
+        direction: ASC
