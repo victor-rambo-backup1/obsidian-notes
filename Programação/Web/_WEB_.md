@@ -1,3 +1,2 @@
 - [[Web Basics]]
 - [[Licenças]]
-- [[Daemons]]
