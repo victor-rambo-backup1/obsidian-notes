@@ -1,0 +1,5 @@
+- [[Resumo Abstract Data Types]]
+- [[Resumo Modularidade (Mayer)]]
+- [[Resumo Software Quality (Meyer)]]
+- [[Resumo The Pratical Test Pyramid (Martin Fowler)]]
+- [[Refatoramento]]
