@@ -2,6 +2,18 @@ properties:
   file.name:
     displayName: Nome
 views:
+  - type: table
+    name: Tabela
+    filters:
+      and:
+        - file.inFolder("remote/GTD/Minhas Ações")
+    order:
+      - file.name
+      - tags
+      - Data Início
+      - Data Fim
+      - Status
+    sort: []
   - type: project-timeline
     name: Timeline
     filters:
@@ -16,15 +28,3 @@ views:
     end: note.Data Fim
     sidebar: false
     zoom: week
-  - type: table
-    name: Tabela
-    filters:
-      and:
-        - file.inFolder("remote/GTD/Minhas Ações")
-    order:
-      - file.name
-      - status
-      - Data Início
-      - Data Fim
-      - tags
-    sort: []
