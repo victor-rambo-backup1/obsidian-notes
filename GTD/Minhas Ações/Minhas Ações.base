@@ -12,78 +12,6 @@ views:
     sort:
       - property: file.name
         direction: DESC
-  - type: cards
-    name: Cartões
-    filters:
-      and:
-        - file.inFolder("remote/Base")
-    order:
-      - file.name
-      - status
-      - Data
-      - tags
-    cardSize: 800
-    imageAspectRatio: 1.05
-  - type: timeline
-    name: Visualizaçao padrão
-    filters:
-      and:
-        - file.inFolder("remote/Base")
-    order:
-      - file.name
-      - Data
-      - status
-      - tags
-      - file.tags
-      - file.size
-      - file.path
-      - file.mtime
-      - file.links
-      - file.folder
-      - file.ext
-      - file.embeds
-      - file.ctime
-      - file.basename
-      - file.backlinks
-      - file.fullname
-    showLabels: false
-  - type: timeline
-    name: Visualizaçao padrão 2
-    order:
-      - file.name
-      - Data
-    showLabels: true
-    dateProperty: note.Data
-    labelProperty: file.tags
-  - type: timeline
-    name: Visualizaçao padrão 2 2
-    order:
-      - file.name
-      - Data
-    showLabels: true
-    dateProperty: note.Data
-    labelProperty: file.basename
-    categoryProperty: note.tags
-    showAxis: true
-    axisInterval: auto
-  - type: table
-    name: Visualizaçao padrão 3
-  - type: project-timeline
-    name: Visualizaçao padrão 4
-    filters:
-      and:
-        - file.inFolder("remote/Base")
-    order:
-      - file.name
-      - Data
-    sidebar: true
-    sortByPriority: true
-    start: note.Data
-    zoom: week
-  - type: table
-    name: Visualizaçao padrão 5
-  - type: table
-    name: Visualizaçao padrão 6
   - type: project-timeline
     name: Visualizaçao padrão 7
     filters:
@@ -96,4 +24,5 @@ views:
     priority: note.tags
     start: note.Data Início
     end: note.Data Fim
-    sidebar: true
+    sidebar: false
+    zoom: week
