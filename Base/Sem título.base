@@ -80,3 +80,9 @@ views:
     sortByPriority: true
     start: note.Data
     zoom: week
+  - type: table
+    name: Visualizaçao padrão 5
+  - type: table
+    name: Visualizaçao padrão 6
+  - type: project-timeline
+    name: Visualizaçao padrão 7
