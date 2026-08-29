@@ -63,6 +63,8 @@ views:
     showLabels: true
     dateProperty: note.Data
     labelProperty: file.basename
-    categoryProperty: note.Data
+    categoryProperty: note.tags
+    showAxis: true
+    axisInterval: auto
   - type: table
     name: Visualizaçao padrão 3
