@@ -1,7 +1,7 @@
 ---
 tags:
-  - PET
-Data Início: 2026-09-07T09:00:00
+  - Faculdade
+Data Início: 2026-08-31T16:55:00
 Data Fim:
 Status: Esperando Evento
 ---
