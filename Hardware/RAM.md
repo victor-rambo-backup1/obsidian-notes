@@ -1,1 +1,4 @@
-`DDR`: Double 
+`DDR`: Double Data Rate
+
+# Clock
+
