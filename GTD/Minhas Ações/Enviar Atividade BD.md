@@ -1,7 +1,7 @@
 ---
 tags:
   - Faculdade
-Data Início:
+Data Início: 2026-09-02T14:01:00
 Data Fim:
-Status:
+Status: Pendente
 ---
