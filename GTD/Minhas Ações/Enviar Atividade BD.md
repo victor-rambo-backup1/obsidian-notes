@@ -3,5 +3,5 @@ tags:
   - Faculdade
 Data Início:
 Data Fim:
-Status: Pendente
+Status:
 ---
