@@ -27,3 +27,9 @@ Cpu usa `GHz`
 
 # Barramento
 
+- Conjunto de fios de cobre que representam bits
+- Os componentes da placa mãe se comunicam por barramentos
+
+- Exemplos
+	- Barramento da memória: CPU ↔ RAM
+	- Barramento PCIe: CPU ↔ SSD Nv
