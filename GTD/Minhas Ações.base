@@ -14,10 +14,10 @@ views:
       - Data Fim
       - Status
     sort:
-      - property: Data Início
-        direction: DESC
       - property: tags
         direction: ASC
+      - property: Data Início
+        direction: DESC
       - property: Status
         direction: ASC
   - type: project-timeline
