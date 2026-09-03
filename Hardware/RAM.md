@@ -32,4 +32,6 @@ Cpu usa `GHz`
 
 - Exemplos
 	- Barramento da memória: CPU ↔ RAM
-	- Barramento PCIe: CPU ↔ SSD Nv
+	- Barramento PCIe: CPU ↔ SSD NVMe, Placa de Vídeo 
+	- Barramento Sata: CPU ↔ HD, SSD
+	- Barramento USB
