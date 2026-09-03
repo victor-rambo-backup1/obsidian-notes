@@ -6,7 +6,7 @@ views:
     name: Tabela
     filters:
       and:
-        - file.inFolder("remoto/GTD/Minhas Ações")
+        - file.inFolder("remote/GTD/Minhas Ações")
     order:
       - file.name
       - tags
@@ -24,7 +24,7 @@ views:
     name: Timeline
     filters:
       and:
-        - file.inFolder("remoto/GTD/Minhas Ações")
+        - file.inFolder("remote/GTD/Minhas Ações")
     order:
       - file.name
       - Data Fim
