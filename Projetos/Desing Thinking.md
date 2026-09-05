@@ -40,3 +40,10 @@ Pegar um problema principal e ficar questionando ele
 - Como a equipe vai ajudar a atender o que os usuários precisam?
 - Sua equipe está entregando valor aos usuários com sucesso?
 - Sua equipe ainda está alinhada?
+
+
+# Descobrindo Soluções
+
+- Encontre o que as pessoas precisam 
+- Encontre quem precisa
+- Encontre qual o problema 
