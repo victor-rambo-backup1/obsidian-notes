@@ -6,3 +6,8 @@
 
 # Colinas 
 
+Objetivos 
+
+- Quem vai usar
+- O que vai ser capaz de fazer
+- O que diferencia da concorrência 
