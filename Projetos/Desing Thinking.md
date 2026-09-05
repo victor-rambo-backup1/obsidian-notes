@@ -19,3 +19,10 @@ Objetivos
 # 5 Porquês
 
 Pegar um problema principal e ficar questionando ele 
+
+
+# Inovação incansável
+
+- Cliente sempre está mudando logo produto deve estar sempre evoluindo
+- Encarar tudo com protótipos
+- Quanto mais rápido você 
