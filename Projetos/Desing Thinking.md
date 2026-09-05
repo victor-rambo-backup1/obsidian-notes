@@ -34,7 +34,9 @@ Pegar um problema principal e ficar questionando ele
 - Estabelecer metas claras no início da reunião e revisa-las no final 
 
 # Alinhando Equipes
-- Fazer apresentações para a equipe para al
+
+> Fazer apresentações para a equipe para alinhar ideais e acomular feedback
+
 - Quem são os usuários?
 - Qual experiência estamos melhorando e por quê?
 - O que os usuários precisam?
@@ -44,6 +46,8 @@ Pegar um problema principal e ficar questionando ele
 
 
 # Descobrindo Soluções
+
+> Transformar soluções em perguntas
 
 - Encontre o que as pessoas precisam 
 - Encontre quem precisa
