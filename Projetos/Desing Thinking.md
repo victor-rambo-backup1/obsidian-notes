@@ -26,3 +26,4 @@ Pegar um problema principal e ficar questionando ele
 - Cliente sempre está mudando logo produto deve estar sempre evoluindo
 - Encarar tudo com protótipos
 - Quanto mais rápido você apresentar protótipo para outras pessoas melhor vai ser
+- Brainwstorm sem ideias idiotas
