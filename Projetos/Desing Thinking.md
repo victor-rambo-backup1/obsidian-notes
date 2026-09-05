@@ -3,7 +3,6 @@
 - Pensar na experiência e emoções do usuário final
 - Vender experiência e não estrutura
 
-
 # Colinas 
 
 Objetivos 
@@ -27,3 +26,9 @@ Pegar um problema principal e ficar questionando ele
 - Encarar tudo com protótipos
 - Quanto mais rápido você apresentar protótipo para outras pessoas melhor vai ser
 - Brainwstorm sem ideias idiotas
+
+
+# Reuniões
+- Fazer todos escrever em um papel seus pontos de vistas e compartilhar
+- Votações anônimas durante o meet
+- Estabelecer metas claras no início da reunião e revisa-las no final 
