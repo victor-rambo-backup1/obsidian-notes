@@ -32,3 +32,6 @@ Pegar um problema principal e ficar questionando ele
 - Fazer todos escrever em um papel seus pontos de vistas e compartilhar
 - Votações anônimas durante o meet
 - Estabelecer metas claras no início da reunião e revisa-las no final 
+
+# Alinhando Equipes
+- 
