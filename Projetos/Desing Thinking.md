@@ -34,4 +34,9 @@ Pegar um problema principal e ficar questionando ele
 - Estabelecer metas claras no início da reunião e revisa-las no final 
 
 # Alinhando Equipes
-- 
+- Quem são os usuários?
+- Qual experiência estamos melhorando e por quê?
+- O que os usuários precisam?
+- Como a equipe vai ajudar a atender o que os usuários precisam?
+- Sua equipe está entregando valor aos usuários com sucesso?
+- Sua equipe ainda está alinhada?
