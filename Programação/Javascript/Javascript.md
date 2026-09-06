@@ -41,5 +41,7 @@ document.getElementById("myButton").onclick = function() {
 > Todos os número em JS são tratados como floats com excessão de big ints
 
 - `Number()`
+	- Converter uma string para number retorna um `Nan`
 - `String()`
 - `Boolean`
+	- Converter uma string não vazia para Boolean retorna `True`
