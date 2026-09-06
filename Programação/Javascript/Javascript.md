@@ -38,3 +38,8 @@ document.getElementById("myButton").onclick = function() {
 
 # Type Conversion
 
+> Todos os número em JS são tratados como floats com excessão de big ints
+
+- `Number()`
+- `String()`
+- `Boolean`
