@@ -35,3 +35,6 @@ document.getElementById("myButton").onclick = function() {
     console.log(username);
 }
 ```
+
+# Type Conversion
+
