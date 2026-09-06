@@ -47,3 +47,8 @@ document.getElementById("myButton").onclick = function() {
 - `String()`
 - `Boolean`
 	- Converter uma string não vazia para Boolean retorna `True`
+
+
+# Random 
+
+> Usar Math.random()
