@@ -23,4 +23,4 @@
 - `POWER SW`: liga e desliga
 - `RESET SW`: reinicia o computador
 - `HDD LED`: liga led quando faz transferencia no HD
-- 
+- `POWER LED`: luz ligada
