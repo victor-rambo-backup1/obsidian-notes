@@ -1,1 +1,4 @@
 - [[RAM]]
+- [[CPU]]
+- [[Fonte]]
+- [[Placa Mãe]]
