@@ -10,5 +10,6 @@
 # Conectores
 
 - `SATA`: conectar em HD, Leitor de Disco, alguns SSDs
-- `ATX 24 Pinos`: conecta na placa mãe
-- 
+- `24 Pinos`: energiza placa mãe
+- `4/8 Pinos`: energiza CPU
+- `6/8 Pinos`: energiza GPU
