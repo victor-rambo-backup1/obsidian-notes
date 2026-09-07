@@ -11,3 +11,10 @@
 
 
 # Front Panel Header (F_PANEL)
+
+- Permite com que o gabinete se comunique com a placa mãe
+
+## Descobrindo Lado Correto
+- Na placa mãe deve ter uma sinalização do lado + e -
+- Na frente de cada cabo deve ter um + e -
+- A parte de trás do cabo deve ter uma flecha onde ficará o +
