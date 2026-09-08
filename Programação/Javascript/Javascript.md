@@ -76,3 +76,11 @@ switch(True) {
 
 }
 ```
+
+
+# String
+
+- `.padStart(20, "0")`: prenche o início da string com 0 até chegar a 20 caracteres
+- `.padEnd(20, "0"`: prenche o fim da string com 0 até chegar a 20 caracteres
+
+- `.slice()`
