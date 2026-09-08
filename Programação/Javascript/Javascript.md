@@ -95,3 +95,8 @@ switch(True) {
 # Functions 
 
 `function MyFunc() {}`
+
+
+# For Loop
+
+`for (let animal of animals) {}`
