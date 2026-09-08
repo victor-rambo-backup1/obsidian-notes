@@ -94,3 +94,4 @@ switch(True) {
 
 # Functions 
 
+`function MyFunc() {}`
