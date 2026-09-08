@@ -37,7 +37,7 @@ document.getElementById("myButton").onclick = function() {
 ```
 
 `.value`: input
-`.textContent`: texto de elemento qualquer
+`.textContent`: texto de elemento 
 # Type Conversion
 
 > Todos os número em JS são tratados como floats com excessão de big ints
