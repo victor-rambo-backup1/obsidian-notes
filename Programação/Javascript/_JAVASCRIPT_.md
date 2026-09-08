@@ -1,1 +1,7 @@
 - [[Javascript]]
+- [[remote/Programação/Javascript/Functions|Functions]]
+- [[Interact With HTML]]
+- [[Rest Parameters]]
+- [[Spread Operator]]
+- [[Switch]]
+- [[Variables]]

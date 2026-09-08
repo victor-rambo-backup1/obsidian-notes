@@ -1,4 +1,7 @@
 
+`function MyFunc() {}`
+# Functions Callbacks 
+
 > Passar uma função como argumento para uma função
 
 ```js

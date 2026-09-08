@@ -1,5 +1,5 @@
 
-# Loading Javascript
+# Loading JS Script
 
 -     `<script src=<path> defer></script>`
 	- `defer`: baixa o javascript desde o início do carregamento mas só executa ele depois de todo o resto estiver carregado
