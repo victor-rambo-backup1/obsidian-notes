@@ -59,3 +59,13 @@ document.getElementById("myButton").onclick = function() {
 `age <=18 ? "You are a adult" : "You are a minor"`
 - `?`: resultado se for verdadeiro
 - `:`: resultado se for falso
+
+
+# Switch
+
+```
+switch(True) {
+	case age <= 18
+
+}
+```
