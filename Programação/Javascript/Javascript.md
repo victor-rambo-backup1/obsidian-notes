@@ -86,3 +86,6 @@ switch(True) {
 - `.slice(<start>, <end>)` 
 	- pega a subtring começando no start até o end (não inclusivo)
 	- Se não botar end vai até o final da string
+
+# Strict Equality 
+
