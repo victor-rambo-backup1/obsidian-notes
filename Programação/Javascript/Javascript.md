@@ -6,14 +6,7 @@
 
 - `window.alert(<text>)`: mostra uma caixa de alerta
 
-# Loading Javascript
 
--     `<script src=<path defer></script>`
-	- `defer`: baixa o javascript desde o início do carregamento mas só executa ele depois de todo o resto estiver carregado
-
-# Select HTML
-
--  `document.getElementByID(<id>).textContent = variable`: muda texto do elemento HTML com o id selecionado
 # Variables
 
 - `let`
@@ -26,18 +19,6 @@
 
 - `typeof <variable>`: retorna o tipo de valor da variável
 
-# Input 
-
-```js
-document.getElementById("myButton").onclick = function() {
-    username = document.getElementById("myInput").value;
-    document.getElementById("myInput").value = null;
-    console.log(username);
-}
-```
-
-`.value`: input
-`.textContent`: texto de elemento 
 # Type Conversion
 
 > Todos os número em JS são tratados como floats com excessão de big ints
@@ -45,7 +26,7 @@ document.getElementById("myButton").onclick = function() {
 - `Number()`
 	- Converter uma string para number retorna um `Nan`
 - `String()`
-- `Boolean`
+- `Boolean()`
 	- Converter uma string não vazia para Boolean retorna `True`
 
 
@@ -138,3 +119,17 @@ printNames("Victor", "Raissa", "Isadora");
 # Callbacks
 
 > Passar uma função como argumento para uma função
+
+
+```js
+function addTwoNumbers(callback, num1, num2) {
+    let sum = num1 + num2;
+    callback(sum);
+}
+
+function printNum(num) {
+    console.log(num);
+}
+
+addTwoNumbers(printNum, 1, 2);
+```
