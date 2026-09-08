@@ -52,3 +52,10 @@ document.getElementById("myButton").onclick = function() {
 # Random 
 
 > Usar Math.random()
+
+
+# Ternary Operator
+
+`age <=18 ? "You are a adult" : "You are a minor"`
+- `?`: resultado se for verdadeiro
+- `:`: resultado se for falso
