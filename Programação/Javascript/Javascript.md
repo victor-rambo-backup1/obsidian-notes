@@ -100,3 +100,20 @@ switch(True) {
 # For Loop
 
 `for (let animal of animals) {}`
+
+
+# Spread Operator
+
+`...`: Separa objetos iteráveis, como strings e listas, em elementos separados
+
+```js
+let nums = [1, 2, 3];
+let maxNum = Math.max(...nums);
+
+console.log(maxNum);
+```
+
+
+> Pode ser usado para concatenar listas
+
+
