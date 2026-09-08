@@ -123,4 +123,10 @@ let nums = [...nums1, ...nums2];
 
 # Rest Parameters
 
-`...`: Permite passar quantos argument
+`...`: Permite passar quantos argumentos quiser, o JS vai empacota-los em uma lista
+
+> Tipo \*args do python
+
+```js
+
+```
