@@ -128,5 +128,10 @@ let nums = [...nums1, ...nums2];
 > Tipo \*args do python
 
 ```js
+function printNames(...names) {
+    console.log(names)
+}
 
+printNames("Victor", "Raissa", "Isadora");
 ```
+
