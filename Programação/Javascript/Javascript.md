@@ -121,3 +121,6 @@ let nums = [...nums1, ...nums2];
 ```
 
 
+# Rest Parameters
+
+`...`: Permite passar quantos argument
