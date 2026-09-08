@@ -136,3 +136,5 @@ printNames("Victor", "Raissa", "Isadora");
 ```
 
 # Callbacks
+
+> Passar uma função como argumento para uma função
