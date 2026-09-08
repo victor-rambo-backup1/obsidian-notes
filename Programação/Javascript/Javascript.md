@@ -83,4 +83,6 @@ switch(True) {
 - `.padStart(20, "0")`: prenche o início da string com 0 até chegar a 20 caracteres
 - `.padEnd(20, "0"`: prenche o fim da string com 0 até chegar a 20 caracteres
 
-- `.slice()`
+- `.slice(<start>, <end>)` 
+	- pega a subtring começando no start até o end (não inclusivo)
+	- Se não botar end vai até o final da string
