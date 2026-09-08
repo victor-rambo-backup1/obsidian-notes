@@ -89,3 +89,4 @@ switch(True) {
 
 # Strict Equality 
 
+`===`: compara se o valor é igual e o tipo do dado é igual
