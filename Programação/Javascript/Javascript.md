@@ -135,3 +135,4 @@ function printNames(...names) {
 printNames("Victor", "Raissa", "Isadora");
 ```
 
+# Callbacks
