@@ -5,3 +5,5 @@
 - Grupos de Reddit
 - Grupos de Whatsapp 
 - Grupos no Discord
+- Grupos de Telegram
+- Comunidades de Startup
