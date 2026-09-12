@@ -7,3 +7,7 @@
 - Grupos no Discord
 - Grupos de Telegram
 - Comunidades de Startup
+
+# Frelance
+
+- Ir atrás de comunidades de pequenos negócios
