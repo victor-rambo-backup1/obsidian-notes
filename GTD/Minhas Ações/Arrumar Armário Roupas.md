@@ -4,5 +4,5 @@ tags:
 Data Início: 2026-10-07
 Data Fim: 2026-10-07
 Status: Fodase
-Data: 34
+Horas: 1:30
 ---
