@@ -11,3 +11,4 @@
 # Frelance
 
 - Ir atrás de comunidades de pequenos negócios
+- Comunidades muito específicas e nichadas
