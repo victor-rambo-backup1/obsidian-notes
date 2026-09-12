@@ -13,7 +13,7 @@ views:
       - Data Início
       - Data Fim
       - Status
-      - Horas
+      - Tempo
     sort:
       - property: tags
         direction: ASC
