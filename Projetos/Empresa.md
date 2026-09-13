@@ -7,4 +7,6 @@ Metis Software
 
 Dionysus Software Company
 
-Dionix Software Company
+Dionysus Software Company
+
+Volta Tech
