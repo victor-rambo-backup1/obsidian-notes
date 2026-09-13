@@ -1,4 +1,6 @@
 
 # Nome
 
-Nexo Tech
+Vexian Tech
+
+Metis Software
