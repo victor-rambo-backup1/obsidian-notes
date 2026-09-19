@@ -5,4 +5,4 @@
 - [Simulador online Risk-V](https://riscv-simulator-five.vercel.app/)
 - [Manual dos Bixos](https://foggy-antler-b88.notion.site/Manual-do-Bixos-69aee2be56cd46599e43636c19f16433)
 - [Repositório PAA1 e PAA2](https://github.com/BrunoGrisci/projeto-e-analise-de-algoritmos)
-- 
+
