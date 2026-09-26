@@ -18,3 +18,5 @@ turmas_codd_fkey
 
 ALTER TABLE TURMAS
 ADD CHECK(turma in ('A','B','C'))
+
+NULL não viola foreing key
