@@ -22,3 +22,5 @@ ADD CHECK(turma in ('A','B','C'))
 NULL não viola foreing key
 
 Não pode alterar atributo que te na table com foreing key sem alguma política
+
+Default definido na definição do campo
