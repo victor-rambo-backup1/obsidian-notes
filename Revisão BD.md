@@ -12,3 +12,6 @@ Update departamento Set ramal = ‘1234 where nome = ‘RH’;
 CASCADE
 SET NULL
 SET DEFAULT
+
+turmas_pkey
+turmas_codd_fkey
