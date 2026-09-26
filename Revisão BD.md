@@ -24,3 +24,5 @@ NULL não viola foreing key
 Não pode alterar atributo que te na table com foreing key sem alguma política
 
 Default definido na definição do campo
+
+Ao fazer projeção da seleção olhar clausula de cima e em baixo
