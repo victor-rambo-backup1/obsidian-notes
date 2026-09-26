@@ -7,3 +7,8 @@ drop view
 alter table drop constraint
 
 Update departamento Set ramal = ‘1234 where nome = ‘RH’;
+
+
+CASCADE
+SET NULL
+SET DEFAULT
