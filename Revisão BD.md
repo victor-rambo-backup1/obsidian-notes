@@ -15,3 +15,6 @@ SET DEFAULT
 
 turmas_pkey
 turmas_codd_fkey
+
+ALTER TABLE TURMAS
+ADD CHECK(turma in ('A','B','C'))
