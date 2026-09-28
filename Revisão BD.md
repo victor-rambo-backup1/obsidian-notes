@@ -29,4 +29,4 @@ Ao fazer projeção da seleção olhar clausula de cima e em baixo
 
 WHERE IS NOT NULL
 
-WHERE LIKE 'GL%'
+WHERE LIKE 'GL%2'
