@@ -8,3 +8,8 @@
 - Seria melhor se os nomes relacionados a dict translator fosse agnostico ao tipo dict
 - Dividir os dicts em grupos: notas, instrumentos
 - Para passar por injeção de dependencia vai ter que ter alguma classe fábrica
+
+- Como fazer as vozes?
+- Lógica das vozes só vai ser lidada nessa primeira parte
+
+- Tradutor 
