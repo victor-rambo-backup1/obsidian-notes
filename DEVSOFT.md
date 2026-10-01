@@ -5,4 +5,5 @@
 - Parte da lógica do MusicContext vai ter que ir para uma nova classe representando as Vozes
 
 - Pensar alguma forma em que mudar o dicionário dinamicamente não seja um inferno
-- 
+- Seria melhor se os nomes relacionados a dict translator fosse agnostico ao tipo dict
+- Dividir os dicts em grupos: notas, instrumentos
