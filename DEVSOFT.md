@@ -22,3 +22,4 @@
 - As classes vão montar a timeline da musica
 - Cada mudança de voz, cria classe na timeline que muda coisa
 - Voz pode ser um wrapper de instrumento e oitava
+- Inicio de cada linha teria um objeto voz para definir
