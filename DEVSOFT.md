@@ -10,6 +10,8 @@
 - Para passar por injeção de dependencia vai ter que ter alguma classe fábrica
 
 - Como fazer as vozes?
+- Se virar modelo, como armazenar musicContext
 - Lógica das vozes só vai ser lidada nessa primeira parte
 
-- Tradutor 
+- Tradutor de texto para modelo 
+- Dentro dele vive as 4 vozes 
