@@ -19,7 +19,6 @@
 
 - Voz -> oitava e instrumento
 
-- Vozes array de voz
-- O tradutor vai ter o contexto
-
-- Os dois apenas para buildar
+- As classes vão montar a timeline da musica
+- Cada mudança de voz, cria classe na timeline que muda coisa
+- Voz pode ser um wrapper de instrumento e oitava
