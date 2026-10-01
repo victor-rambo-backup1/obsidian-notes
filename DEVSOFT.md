@@ -15,3 +15,11 @@
 
 - Tradutor de texto para modelo 
 - Dentro dele vive as 4 vozes 
+
+
+- Voz -> oitava e instrumento
+
+- Vozes array de voz
+- O tradutor vai ter o contexto
+
+- Os dois apenas para buildar
