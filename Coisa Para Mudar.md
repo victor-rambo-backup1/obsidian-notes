@@ -8,3 +8,6 @@
 - Throw para tratar excessões de forma menos bombastica junto com try catch 
 - Mudar try catch para throws
 - Acabar com builders, criar classe MIDI, passar builders para dentro das classes
+- A conversão de nota para MIDI deveria ir para nota
+- Padronizar menssagens de rro
+- Menssagens de erro em ingles ou portugues?
