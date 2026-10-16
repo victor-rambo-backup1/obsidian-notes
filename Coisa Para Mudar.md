@@ -5,3 +5,4 @@
 - o Add voice do voice builder deveria ser salvo como variavel e não precisar passar com parâmetro toda chamada de método
 - Quem sabe builders poderiam ter interface, não sei, acho que não
 - Criar uma classe MIDI, para transportar nome junto com Sequence
+- Throw para tratar excessões de forma menos bombastica junto com try catch 
