@@ -7,3 +7,4 @@
 - Criar uma classe MIDI, para transportar nome junto com Sequence
 - Throw para tratar excessões de forma menos bombastica junto com try catch 
 - Mudar try catch para throws
+- Acabar com builders, criar classe MIDI, passar builders para dentro das classes
