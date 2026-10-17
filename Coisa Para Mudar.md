@@ -9,5 +9,6 @@
 - Mudar try catch para throws
 - Acabar com builders, criar classe MIDI, passar builders para dentro das classes
 - A conversão de nota para MIDI deveria ir para nota
-- Padronizar menssagens de rro
-- Menssagens de erro em ingles ou portugues?
+- Padronizar menssagens de erro
+- Menssagens de erro em inglês ou português?
+- Enums deveriam ser nomeadas no plural ou singular?
