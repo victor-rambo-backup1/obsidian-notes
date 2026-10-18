@@ -13,3 +13,4 @@
 - Menssagens de erro em inglês ou português?
 - Enums deveriam ser nomeadas no plural ou singular?
 - Passar texto de dependencias do maven para ingles
+- Atualizar UML
