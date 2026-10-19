@@ -14,3 +14,4 @@
 - Enums deveriam ser nomeadas no plural ou singular?
 - Passar texto de dependencias do maven para ingles
 - Atualizar UML
+- Consertar warnings de retrocompatibilidade do JavaFX
