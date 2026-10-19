@@ -15,3 +15,4 @@
 - Passar texto de dependencias do maven para ingles
 - Atualizar UML
 - Consertar warnings de retrocompatibilidade do JavaFX
+- O switch do VoicePresset é uma merda
