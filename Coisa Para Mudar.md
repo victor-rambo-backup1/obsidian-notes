@@ -17,3 +17,4 @@
 - Consertar warnings de retrocompatibilidade do JavaFX
 - O switch do VoicePresset é uma merda
 - Remover o máximo de coisa gráfica do código e passar pro css
+- Ter opção de inglês para o sistema
