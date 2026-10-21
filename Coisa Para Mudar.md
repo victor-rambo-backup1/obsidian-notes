@@ -26,3 +26,5 @@
 - Fazer com que os nodes tenha uma classe abstrata para centralizar métodos iguais
 - Decidir melhor nomeação dos arquivos de GUI
 - Botar opção de salva o txt, com base oque foi posto nas voices
+- Fazer testes para GUI
+- Deixar css bonitinho
