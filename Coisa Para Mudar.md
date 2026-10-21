@@ -22,3 +22,4 @@
 - Nome não é transportado junto com a sequence
 - Fazer label do preset ir para o lado dele quando tiver espaço
 - MusicElements tão na mesma pasta de um monte de coisa que não é element
+- Arrumar imports
