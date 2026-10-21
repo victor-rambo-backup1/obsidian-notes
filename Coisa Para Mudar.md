@@ -20,3 +20,5 @@
 - Ter opção de inglês para o sistema
 - Levar aplicação do voicePreset na sheetMusic no parser
 - Proibir de dentro do voice ter /n
+- Ammes fez errado as questões do package no translator, mudar no meu código
+- Nome não é transportado junto com a sequence
