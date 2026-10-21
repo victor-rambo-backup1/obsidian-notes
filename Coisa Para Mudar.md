@@ -19,3 +19,4 @@
 - Remover o máximo de coisa gráfica do código e passar pro css
 - Ter opção de inglês para o sistema
 - Levar aplicação do voicePreset na sheetMusic no parser
+- Proibir de dentro do voice ter /n
