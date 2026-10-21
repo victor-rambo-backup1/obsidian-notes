@@ -23,3 +23,4 @@
 - Fazer label do preset ir para o lado dele quando tiver espaço
 - MusicElements tão na mesma pasta de um monte de coisa que não é element
 - Arrumar imports
+- Fazer com que os nodes tenha uma classe abstrata para centralizar métodos iguais
