@@ -14,12 +14,11 @@
 - Enums deveriam ser nomeadas no plural ou singular?
 - Passar texto de dependencias do maven para ingles
 - Atualizar UML
-- Consertar warnings de retrocompatibilidade do JavaFX
+- Consertar warnings do JavaFX
 - O switch do VoicePresset é uma merda
-- Remover o máximo de coisa gráfica do código e passar pro css
-- Ter opção de inglês para o sistema
 - Levar aplicação do voicePreset na sheetMusic no parser
 - Proibir de dentro do voice ter /n
 - Ammes fez errado as questões do package no translator, mudar no meu código
 - Nome não é transportado junto com a sequence
 - Fazer label do preset ir para o lado dele quando tiver espaço
+- MusicElements tão na mesma pasta de um monte de coisa que não é element
