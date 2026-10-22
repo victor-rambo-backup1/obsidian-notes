@@ -30,3 +30,4 @@
 - Deixar css bonitinho
 - Mudar nome de scene para screen os scripts de GUI
 - Pensar em nome melhor que outros para mepeamento
+- Fazer uma classe abstrata de nodes
