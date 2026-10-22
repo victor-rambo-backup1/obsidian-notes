@@ -28,3 +28,4 @@
 - Botar opção de salva o txt, com base oque foi posto nas voices
 - Fazer testes para GUI
 - Deixar css bonitinho
+- Mudar nome de scene para screen os scripts de GUI
