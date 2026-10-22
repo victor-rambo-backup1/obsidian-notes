@@ -32,4 +32,4 @@
 - Pensar em nome melhor que outros para mepeamento
 - Fazer uma classe abstrata de nodes
 - Tirar override no close do player
-- Desmembrar o
+- Desmembrar o style em arquivos menores
