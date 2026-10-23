@@ -14,7 +14,7 @@
 - O switch do VoicePresset é uma merda
 - Levar aplicação do voicePreset na sheetMusic no parser
 - Proibir de dentro do voice ter /n
-- Ammes fez errado as questões do package no translator, mudar no meu código
+- Ammes fez errado as questões do package no translator?
 - Nome não é transportado junto com a sequence
 - Fazer label do preset ir para o lado dele quando tiver espaço
 - MusicElements tão na mesma pasta de um monte de coisa que não é element
