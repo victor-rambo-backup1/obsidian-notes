@@ -1,9 +1,5 @@
 
-- Ver se translators precisam de interface
-- MusicBuilder e VoiceBuilder são meio redundantes, tirar construtores e sets do Music e Voice
 - Mudar nome de métodos com getInstrument
-- o Add voice do voice builder deveria ser salvo como variavel e não precisar passar com parâmetro toda chamada de método
-- Quem sabe builders poderiam ter interface, não sei, acho que não
 - Criar uma classe MIDI, para transportar nome junto com Sequence
 - Throw para tratar excessões de forma menos bombastica junto com try catch 
 - Mudar try catch para throws
@@ -33,4 +29,7 @@
 - Fazer uma classe abstrata de nodes
 - Tirar override no close do player
 - Desmembrar o style em arquivos menores
-- Mudar resolução base
+- Mudar resolução base do programa, quem sabe iniciar ele em tela cheia
+- Mandar alguem testar no windows
+- Deixar README bonitinho, melhorar instruções
+- Não seria melhor mandar a pessoa baixar o Maven
