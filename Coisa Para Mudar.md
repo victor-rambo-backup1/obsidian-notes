@@ -33,3 +33,4 @@
 - Fazer uma classe abstrata de nodes
 - Tirar override no close do player
 - Desmembrar o style em arquivos menores
+- Mudar resolução base
