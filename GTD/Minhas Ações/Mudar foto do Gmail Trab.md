@@ -1,8 +1,8 @@
 ---
 tags:
   - Tarefa
-Data Início: 2026-10-05
-Data Fim: 2026-10-05
+Data Início: 2026-11-20
+Data Fim: 2026-11-20
 Status: Pendente
 Tempo:
 ---
