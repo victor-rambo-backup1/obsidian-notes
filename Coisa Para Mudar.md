@@ -37,3 +37,4 @@
 - Trocar nome de input para importer
 - Fazer o javasound fechar corretamente com o animation
 - Transformmar o midiPlayer em injeção de depndencia
+- Fazer midiPlayer ja pegar url dos resoruces
