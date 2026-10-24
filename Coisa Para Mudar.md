@@ -34,5 +34,6 @@
 - Deixar README bonitinho, melhorar instruções
 - Não seria melhor mandar a pessoa baixar o Maven
 - Que porra é o input em resources
-- Trocar nome de input para importer4
+- Trocar nome de input para importer
 - Fazer o javasound fechar corretamente com o animation
+- Transformmar o midiPlayer em injeção de depndencia
