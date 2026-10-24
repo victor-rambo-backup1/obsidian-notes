@@ -34,3 +34,4 @@
 - Deixar README bonitinho, melhorar instruções
 - Não seria melhor mandar a pessoa baixar o Maven
 - Que porra é o input em resources
+- Trocar nome de input para importer
