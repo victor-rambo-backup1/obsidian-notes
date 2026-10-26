@@ -1,8 +1,8 @@
 ---
 tags:
   - Faculdade
-Data Início: 2026-10-23
-Data Fim: 2026-10-23
+Data Início: 2026-10-26
+Data Fim: 2026-10-26
 Status: Esperando Evento
 Tempo:
 ---
