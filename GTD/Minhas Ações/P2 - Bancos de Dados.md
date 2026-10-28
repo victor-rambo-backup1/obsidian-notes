@@ -2,7 +2,7 @@
 tags:
   - Prova
   - Faculdade
-Data Início: 2026-12-16T00:00:00
-Data Fim:
+Data Início: 2026-12-09
+Data Fim: 2026-12-09
 Status: Esperando Evento
 ---
