@@ -65,4 +65,11 @@ Consultas
 
 5. GetProducoesUsuarioAteData
 
+6. ProduçõesMaisReassitidas
+
+7. GetProduçoesQueUsuarioNãoViu
+
+8. GetProduçõesMaisVistasQueUsuarioNãoVIU
+
+
 
