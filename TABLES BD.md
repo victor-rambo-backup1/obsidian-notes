@@ -14,6 +14,8 @@ Generos
 
 # 1.1
 
+
+
 Produções
 codp, data_lancamento, visualizações, curtidas, 
 
@@ -48,5 +50,13 @@ codpr, codp
 
 Consultas
 GetTop10ProducoesMaisAssistidas
-GetProducoesPorGenero
-GetProducaoMaisAssistidaDeUm 
+
+GetProducoesDeGenero
+GetProducoesDeProdutora
+GetProducoesComAtor
+GetProducoesComDiretor
+
+GetProducaoMaisAssistidaDeUmGenero
+
+
+
