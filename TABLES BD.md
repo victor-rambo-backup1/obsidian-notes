@@ -48,4 +48,4 @@ codpr, codp
 
 Consultas
 GetTop10ProducoesMaisAssistidas
-Get
+GetProducoesPorGenero
