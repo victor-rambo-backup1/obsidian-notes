@@ -49,7 +49,7 @@ codp, codd
 AlocacaoProducaoProdutora
 codpr, codp
 
-
+Tipos de Produção: Série, Filme, Especial
 
 Consultas
 1. GetTop10ProducoesMaisAssistidas
