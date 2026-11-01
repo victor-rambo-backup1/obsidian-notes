@@ -52,19 +52,17 @@ codpr, codp
 Consultas
 1. GetTop10ProducoesMaisAssistidas
 
-2. GetProducaoPorNome
+2. GetProducoesPorNome
+	GetProducoesPorGenero
+	GetProducoesPorProdutora
+	GetProducoesPorAtor
+	GetProducoesPorDiretor
 
-3. GetProducoesDeGenero
-	GetProducoesDeProdutora
-	GetProducoesComAtor
-	GetProducoesComDiretor
+3. GetProducaoMaisAssistidaDeUmGenero
 
-4. GetProducaoMaisAssistidaDeUmGenero
+4. GetGeneroFavoritoUsuario
+	GetUsuarioTipoProducaoPreferido
 
-5. GetGeneroFavoritoUsuario
-
-6. GetUsuarioTipoProducaoPreferido
-
-7. GetProducoesUsuarioAteData
+5. GetProducoesUsuarioAteData
 
 
