@@ -61,8 +61,8 @@ Consultas
 
 4. GetGeneroFavoritoUsuario
 
-5. GetUsuarioPrefereFilmeOuSerie
+5. GetUsuarioTipoProducaoPreferido
 
-6. GetProducoesUsuarioUltimoMes
+6. GetProducoesUsuarioAteData
 
 
