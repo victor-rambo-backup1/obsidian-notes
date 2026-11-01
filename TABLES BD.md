@@ -49,3 +49,4 @@ codpr, codp
 Consultas
 GetTop10ProducoesMaisAssistidas
 GetProducoesPorGenero
+GetProducaoMaisAssistidaDeUm 
