@@ -14,7 +14,8 @@ Generos
 
 # 1.1
 
-
+Usuario
+codu, 
 
 Produções
 codp, data_lancamento, visualizações, curtidas, 
@@ -49,14 +50,19 @@ codpr, codp
 
 
 Consultas
-GetTop10ProducoesMaisAssistidas
+1. GetTop10ProducoesMaisAssistidas
 
-GetProducoesDeGenero
-GetProducoesDeProdutora
-GetProducoesComAtor
-GetProducoesComDiretor
+2. GetProducoesDeGenero
+	GetProducoesDeProdutora
+	GetProducoesComAtor
+	GetProducoesComDiretor
 
-GetProducaoMaisAssistidaDeUmGenero
+3. GetProducaoMaisAssistidaDeUmGenero
 
+4. GetGeneroFavoritoUsuario
+
+5. GetUsuarioPrefereFilmeOuSerie
+
+6. GetProducoesUsuarioUltimoMes
 
 
