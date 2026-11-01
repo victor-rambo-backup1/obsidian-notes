@@ -15,9 +15,11 @@ Generos
 # 1.1
 
 Produções
-Episodios
+ConteudoProdução
 Atores 
 Diretores
 Produtora
-Generoe
+Generos
+AlocacaoProducaoAtor
+AlocacaoProducaoDiretor
 
