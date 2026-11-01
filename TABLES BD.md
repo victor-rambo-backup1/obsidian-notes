@@ -15,11 +15,13 @@ Generos
 # 1.1
 
 Produções
-ConteudoProdução
+codp, data_lancamento, visualizações, curtidas, 
 Atores 
 Diretores
 Produtora
 Generos
+Produca
+ConteudoProdução
 AlocacaoProducaoAtor
 AlocacaoProducaoDiretor
 
