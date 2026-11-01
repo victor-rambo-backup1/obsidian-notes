@@ -58,18 +58,28 @@ Consultas
 	GetProducoesPorAtor
 	GetProducoesPorDiretor
 
-3. GetProducaoMaisAssistidaDeUmGenero
+3. GetProducoesExcetoPorNome
+	GetProducoesExcetoPorGenero
+	GetProducoesExcetoPorProdutora
+	GetProducoesExcetoPorAtor
+	GetProducoesExcetoPorDiretor
 
-4. GetGeneroFavoritoUsuario
+4. GetProducaoMaisAssistidaDeUmGenero
+
+5. GetGeneroFavoritoUsuario
 	GetUsuarioTipoProducaoPreferido
 
-5. GetProducoesUsuarioAteData
+6. GetProducoesUsuarioAteData
 
-6. ProduçõesMaisReassitidas
+7. ProduçõesMaisReassitidas
 
-7. GetProduçoesQueUsuarioNãoViu
+8. GetProduçoesQueUsuarioNãoViu
 
-8. GetProduçõesMaisVistasQueUsuarioNãoVIU
+9. GetProduçõesMaisVistasQueUsuarioNãoVIU
+
+10. GetProduçõesUsuárioNãoViuSãoSérie
+
+11. GetSeriesComEpisodesComMenosQueDuraçãoX
 
 
 
