@@ -17,11 +17,17 @@ Generos
 Produções
 codp, data_lancamento, visualizações, curtidas, 
 Atores 
+coda, nome, idade
 Diretores
+codd, nome, idade
 Produtora
+codpr, nome, ano_criação
 Generos
-Produca
+nome_genero, numero_de_visualizações_totatis
+ProducaoGenero
+codp, nome_genero
 ConteudoProdução
+codp, c
 AlocacaoProducaoAtor
 AlocacaoProducaoDiretor
 
