@@ -16,22 +16,30 @@ Generos
 
 Produções
 codp, data_lancamento, visualizações, curtidas, 
+
 Atores 
 coda, nome, idade
+
 Diretores
 codd, nome, idade
+
 Produtora
 codpr, nome, ano_criação
+
 Generos
-nome_genero, numero_de_visualizações_totatis
+nome_genero,
+
 ProducaoGenero
 codp, nome_genero
+
 ConteudoProdução
 codp, nome_producao, duracao_producao,
+
 AlocacaoProducaoAtor
 codp, coda
+
 AlocacaoProducaoDiretor
 codp, codd
+
 AlocacaoProducaoProdutora
 codpr, codp
-Top
