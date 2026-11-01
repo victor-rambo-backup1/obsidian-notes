@@ -29,6 +29,8 @@ codd, nome, idade
 Produtora
 codpr, nome, ano_criação
 
+Premio
+
 Generos
 nome_genero,
 
@@ -80,6 +82,8 @@ Consultas
 10. GetProduçõesUsuárioNãoViuSãoSérie
 
 11. GetSeriesComEpisodesComMenosQueDuraçãoX
+
+12. GetSeríesPremiadas
 
 
 
