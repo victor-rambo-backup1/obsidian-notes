@@ -36,7 +36,7 @@ nome_genero,
 
 ProducaoGenero
 codp, nome_genero
-
+2
 ProducaoPremio
 
 ConteudoProdução
