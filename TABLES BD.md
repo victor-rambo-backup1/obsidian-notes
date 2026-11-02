@@ -89,3 +89,4 @@ Consultas
 
 
 
+1 - mandei as tables com atributos chave e perguntei opinião pro chave e se respeitava normalização 3.5
