@@ -17,6 +17,8 @@ Generos
 Usuario
 codu, 
 
+Premio
+
 Produções
 codp, data_lancamento, visualizações, curtidas, 
 
@@ -29,13 +31,13 @@ codd, nome, idade
 Produtora
 codpr, nome, ano_criação
 
-Premio
-
 Generos
 nome_genero,
 
 ProducaoGenero
 codp, nome_genero
+
+ProducaoPremio
 
 ConteudoProdução
 codp, nome_producao, duracao_producao,
@@ -83,7 +85,7 @@ Consultas
 
 11. GetSeriesComEpisodesComMenosQueDuraçãoX
 
-12. GetSeríesPremiadas
+12. GetProducoesPremiadas
 
 
 
