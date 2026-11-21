@@ -9,6 +9,13 @@ Como omitir generalidade e fingir especifidade?
 - Fazer documentação de tudo 
 - Fazer UML, Diagrama de componentes e diagrama de sequencia geral
 - Disponibilizar via github e pelo site de forma mais interativa
+- Fazer github e portifólio mais em formato de pitch
+- Logs estruturados, métricas, rastreamento 
+- Benchmarks reproduzíveis
+- Explicação porque foi escolhido determinadas 
+
+
+
 # Rota 1: IC 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Aprender o mínimo de algum framework de IA, tipo pytorch
