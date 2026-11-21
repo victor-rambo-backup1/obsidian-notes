@@ -2,8 +2,9 @@
 Ser aceito numa vaga é contar uma história coesa, queremos demonstrar especialidade e não generalidade.
 
 Como omitir generalidade e fingir especifidade?
+- Adaptar linkeding dinamicamente 
+- Fazer varios subpáginas de portifolio que parecem o meu portiofilio oficial
 - 
-
 # Rota 1: IC 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Aprender o mínimo de algum framework de IA, tipo pytorch
