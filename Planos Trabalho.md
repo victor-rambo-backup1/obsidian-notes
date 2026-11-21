@@ -1,9 +1,14 @@
 
+Ser aceito numa vaga é contar uma história coesa, queremos demonstrar especialidade e não generalidade.
+
+Como omitir generalidade e fingir especifidade?
+- 
 
 # Rota 1: IC 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Aprender o mínimo de algum framework de IA, tipo pytorch
 - Aprender node.js para fazer backend em javascript/typescript
+
 
 # Rota 2: Estágio 
 - Atualizar linkeding com novos projetos
@@ -13,5 +18,8 @@
 
 # Rota 3: Freelance
 - Fazer site de portifólio 
-- 
+- Aprender a ser frrelance pessoa física sem ser ilegal
+- Estudar possibilidade de abrir empresa
+
+
 
