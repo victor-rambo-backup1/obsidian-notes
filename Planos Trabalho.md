@@ -13,6 +13,8 @@ Como omitir generalidade e fingir especifidade?
 - Logs estruturados, métricas, rastreamento 
 - Benchmarks reproduzíveis
 - Explicação porque foi escolhido determinadas 
+- Alguma forma de conseguir certificado de inglês gratuito
+- Um portífolio pessoal seria bom, duvido que 
 
 
 
