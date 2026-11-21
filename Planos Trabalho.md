@@ -7,8 +7,8 @@ Como omitir generalidade e fingir especifidade?
 - Deixar experiencias mais relacionados a área no geral, tp não so fastapi mas programou api com fastApi
 - Dar cara aos projetos, fazer um front, deixar mais visual
 - Fazer documentação de tudo 
-- Fazer UML de tudo
-- Um gith
+- Fazer UML, Diagrama de componentes e diagrama de sequencia geral
+- Disponibilizar via github e pelo site de forma mais interativa
 # Rota 1: IC 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Aprender o mínimo de algum framework de IA, tipo pytorch
