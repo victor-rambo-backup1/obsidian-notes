@@ -41,7 +41,11 @@ Como omitir generalidade e fingir especifidade?
 - Fazer demonstrações com gifs e videos
 - Preparar histórias tecnicas reais - bugs complexos, decisões difíceis, conflitos, otimizações e aprendizados.
 - Definir o mínimo da remuneração
-- 
+- Botar currículo em ingles
+- Comprar domínio próprio
+- **Conseguir usuários reais para pelo menos um projeto.** Uma aplicação em uso demonstra manutenção, requisitos e feedback.
+- **Criar um banco de evidências profissionais.** Guardar resultados, tecnologias utilizadas, problemas resolvidos e histórias verdadeiras para montar currículos especializados rapidamente.
+
 
 
 
