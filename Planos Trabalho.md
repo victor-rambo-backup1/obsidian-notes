@@ -31,6 +31,17 @@ Como omitir generalidade e fingir especifidade?
 - Melhorar qualidade dos projetos, implementar CI/CD
 - Fazer site de portifólio 
 - Atualizar currículo lattes com eventos, bolsas e programas
+- Entrar em contato com recrutadores da área 
+- **Configurar alertas de vagas**
+- **Participar de comunidades técnicas**
+- Registrar ADRs
+- Ensaiar uma apresentação proficional curta, story telling
+- Aprender e usar docker
+- Documentar bem todos os projetos
+- Fazer demonstrações com gifs e videos
+- Preparar histórias tecnicas reais - bugs complexos, decisões difíceis, conflitos, otimizações e aprendizados.
+- Definir o mínimo da remuneração
+- 
 
 
 
