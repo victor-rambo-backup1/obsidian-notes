@@ -18,6 +18,8 @@ Como omitir generalidade e fingir especifidade?
 - Botar curriculo no github no linkeding na opção de vagas/preferencia
 - Fazer algum post tecnico com ia
 - Me tornar sociavel no linkeding
+- Contribuir em projetos open source
+- Fazer um blog, produzir artigos tecnicos
 
 
 
