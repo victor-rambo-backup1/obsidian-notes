@@ -20,6 +20,11 @@ Como omitir generalidade e fingir especifidade?
 - Me tornar sociavel no linkeding
 - Contribuir em projetos open source
 - Fazer um blog, produzir artigos tecnicos
+- Se inscrever em bancos de talentos e processos seletivos de empresas
+- Fazer lista de empresas boas
+- Montar varios curriculos para cada área
+- Fazer um sistema de candidaturas, deixar rastreável, ver oq deu certo e oq não deu certo
+- Me preparar tecnicamente para entrevistas de determinada aárea 
 
 
 
