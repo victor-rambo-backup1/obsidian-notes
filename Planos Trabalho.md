@@ -25,6 +25,12 @@ Como omitir generalidade e fingir especifidade?
 - Montar varios curriculos para cada área
 - Fazer um sistema de candidaturas, deixar rastreável, ver oq deu certo e oq não deu certo
 - Me preparar tecnicamente para entrevistas de determinada aárea 
+- Falar no sobre do linkeding se aceito vagas em qual modalidade, sou de onde, procuro quais vagas
+- Atualizar linkeding com novos projetos
+- Melhorar sobre mim do linkeding
+- Melhorar qualidade dos projetos, implementar CI/CD
+- Fazer site de portifólio 
+- Atualizar currículo lattes com eventos, bolsas e programas
 
 
 
