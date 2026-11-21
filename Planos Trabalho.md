@@ -14,7 +14,10 @@ Como omitir generalidade e fingir especifidade?
 - Benchmarks reproduzíveis
 - Explicação porque foi escolhido determinadas 
 - Alguma forma de conseguir certificado de inglês gratuito
-- Um portífolio pessoal seria bom, duvido que 
+- Um portífolio pessoal seria bom, duvido que os recrutadores do RH olhem o github
+- Botar curriculo no github no linkeding na opção de vagas/preferencia
+- Fazer algum post tecnico com ia
+- Me tornar soci
 
 
 
