@@ -4,7 +4,11 @@ Ser aceito numa vaga é contar uma história coesa, queremos demonstrar especial
 Como omitir generalidade e fingir especifidade?
 - Adaptar linkeding dinamicamente 
 - Fazer varios subpáginas de portifolio que parecem o meu portiofilio oficial
-- 
+- Deixar experiencias mais relacionados a área no geral, tp não so fastapi mas programou api com fastApi
+- Dar cara aos projetos, fazer um front, deixar mais visual
+- Fazer documentação de tudo 
+- Fazer UML de tudo
+- Um gith
 # Rota 1: IC 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Aprender o mínimo de algum framework de IA, tipo pytorch
