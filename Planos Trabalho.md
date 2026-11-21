@@ -28,7 +28,7 @@ Como omitir generalidade e fingir especifidade?
 - Falar no sobre do linkeding se aceito vagas em qual modalidade, sou de onde, procuro quais vagas
 - Atualizar linkeding com novos projetos
 - Melhorar sobre mim do linkeding
-- Melhorar qualidade dos projetos, implementar CI/CD
+- Melhorar qualidade dos projetos, implementar CI/CD, documentação
 - Fazer site de portifólio 
 - Atualizar currículo lattes com eventos, bolsas e programas
 - Entrar em contato com recrutadores da área 
@@ -41,11 +41,13 @@ Como omitir generalidade e fingir especifidade?
 - Fazer demonstrações com gifs e videos
 - Preparar histórias tecnicas reais - bugs complexos, decisões difíceis, conflitos, otimizações e aprendizados.
 - Definir o mínimo da remuneração
-- Botar currículo em ingles
+- Botar currículo em inglês
+- Botar portifólio site em inglês
+- Botar linkedin em inglês
 - Comprar domínio próprio
 - **Conseguir usuários reais para pelo menos um projeto.** Uma aplicação em uso demonstra manutenção, requisitos e feedback.
 - **Criar um banco de evidências profissionais.** Guardar resultados, tecnologias utilizadas, problemas resolvidos e histórias verdadeiras para montar currículos especializados rapidamente.
-- Botar certificados da IBM e SBSS no linkeding
+- Botar certificados da IBM e SBSS no linkedin
 
 
 
