@@ -68,6 +68,14 @@ Como omitir generalidade e fingir especifidade?
 - Fazer site de portifólio 
 - Aprender a ser frrelance pessoa física sem ser ilegal
 - Estudar possibilidade de abrir empresa
+- Vender para o exterior, empresas do exterior não pedem nota fiscal, 
+- É culturalmente ok nos estados unidos contratar autonomos
+- Eu posso emitir invoice como pessoa física
+- Fazer portifólio bonito
+- Fazer cold email bons
+- Fazer alguma forma de fazer preview do site das pessoas ainda no cold email
+- Criar redes sociais
+- 
 
 
 
