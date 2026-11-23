@@ -75,7 +75,7 @@ Como omitir generalidade e fingir especifidade?
 - Fazer cold email bons
 - Fazer alguma forma de fazer preview do site das pessoas ainda no cold email
 - Criar redes sociais
-- 
+- Cold emails com informações uteis no geral, tipo top 10 competidores 
 
 
 
