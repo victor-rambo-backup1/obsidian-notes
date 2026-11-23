@@ -79,6 +79,7 @@ Como omitir generalidade e fingir especifidade?
 - Emails devem adicionar valor
 - GRAVAR VIDEOS E MANDAR POR EMAIL
 - Começar com curiosidade
+- Linkeding, convidar pessoas, comentar nas menssagens, fazer postagens sobre site, produtos, deixar elas virem naturalmente
 
 
 
