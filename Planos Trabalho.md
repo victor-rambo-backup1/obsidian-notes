@@ -77,6 +77,7 @@ Como omitir generalidade e fingir especifidade?
 - Criar redes sociais
 - Cold emails com informações uteis no geral, tipo top 10 competidores 
 - Emails devem adicionar valor
+- GRAVAR VIDEOS E MANDAR POR EMAIL
 
 
 
