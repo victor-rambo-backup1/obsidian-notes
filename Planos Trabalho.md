@@ -80,6 +80,7 @@ Como omitir generalidade e fingir especifidade?
 - GRAVAR VIDEOS E MANDAR POR EMAIL
 - Começar com curiosidade
 - Linkeding, convidar pessoas, comentar nas menssagens, fazer postagens sobre site, produtos, deixar elas virem naturalmente
+- Achar algo recente que aconteceu na empresa, e como oq eu faço poderia ajudar
 
 
 
